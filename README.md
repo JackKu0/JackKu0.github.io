@@ -1,3 +1,4 @@
+Welcome to Jack's Home!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/JackKu0/JackKu0.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
